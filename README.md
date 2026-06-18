@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Joko Nardi
 
-<!--
-**jknardi/jknardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and **dad** from Malang, Indonesia 🇮🇩, passionate about building high-performance, lightweight, and secure web solutions.
 
-Here are some ideas to get you started:
+#### 🚀 What I'm Building
+I'm the creator of:
+- **[JkPress](https://github.com/jknardi/jkpress)** – A modern, ultra-fast Headless CMS built with Node.js, designed as a lightning-fast alternative to WordPress, optimized for SEO and AI crawlers.
+- **[jk-zeto](https://github.com/jknardi/jk-zeto)** – A zero-dependency, high-performance secure token library for Node.js using AES-256-GCM encryption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡 My Focus
+- **Performance**: I build things that are fast and efficient.
+- **Security**: Secure code is good code. I implement strong encryption and best practices.
+- **Open Source**: I believe in sharing knowledge and building in public.
+
+#### 📌 Find Me Elsewhere
+- 🌐 Personal Site: [kimpuler.com](http://kimpuler.com)
+- 📫 How to reach me: [admin@kimpuler.com](admin@kimpuler.com)
+
+> _"Building the future, one commit at a time."_
