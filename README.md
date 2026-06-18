@@ -13,7 +13,7 @@ I'm the creator of:
 - **Open Source**: I believe in sharing knowledge and building in public.
 
 #### 📌 Find Me Elsewhere
-- 🌐 Personal Site: [kimpuler.com](http://kimpuler.com)
+- 🌐 Site: [kimpuler.com](http://kimpuler.com)
 - 📫 How to reach me: [admin@kimpuler.com](admin@kimpuler.com)
 
 > _"Building the future, one commit at a time."_
